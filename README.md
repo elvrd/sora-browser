@@ -1,24 +1,24 @@
 # Sora Browser
 
-Sora é um navegador experimental feito em **Swift e UIKit**.
+Sora is an experimental browser built with **Swift and UIKit**.
 
-Este projeto existe como estudo prático para entender os fundamentos de um app iOS:
-ciclo de vida, hierarquia de views, navegação, estado e eventos assíncronos.
+This project exists as a practical study to understand the fundamentals of an iOS app:
+app lifecycle, view hierarchy, navigation, state management, and asynchronous events.
 
-Não é um produto.
-É um espaço de aprendizado.
+It is not a product.  
+It is a learning space.
 
-## Objetivo
+## Objective
 
-Aprender UIKit construindo um sistema real, pequeno e consciente.
+Learn UIKit by building a real, small, and intentional system.
 
-## Tecnologias
+## Technologies
 
 - Swift  
 - UIKit  
 - WebKit  
 
-## Observação
+## Note
 
-Este é um projeto de estudo e documentação pessoal de aprendizado.  
-Mudanças fazem parte do processo.
+This is a study project and a personal learning log.  
+Changes are part of the process.
